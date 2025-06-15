@@ -1,6 +1,10 @@
 # Claimify: Research-Based Claim Extraction via MCP
 
 An implementation of the "Claimify" methodology for factual claim extraction, delivered as a local Model Context Protocol (MCP) server. This tool implements the multi-stage claim extraction approach detailed in the academic paper "Towards Effective Extraction and Evaluation of Factual Claims" by Metropolitansky & Larson (2025).
+
+[Read the paper here](https://arxiv.org/abs/2502.10855)
+
+
 Promps from the paper have been modified for use with Structured Outputs.
 THIS IS NOT AN OFFICIAL IMPLEMENTATION. 
 
